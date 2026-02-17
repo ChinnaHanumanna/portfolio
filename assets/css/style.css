@@ -343,21 +343,30 @@ section {
   font-weight: 700;
   font-size: 26px;
   color: #173b6c;
+  text-align: left;
+
 }
 
 .about .content ul {
   list-style: none;
   padding: 0;
+  text-align: left;
+
+  
 }
 
 .about .content ul li {
   margin-bottom: 20px;
   display: flex;
   align-items: center;
+  text-align: left;
+
 }
 
 .about .content ul strong {
   margin-right: 10px;
+  text-align: left;
+
 }
 
 .about .content ul i {
