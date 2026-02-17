@@ -1,6 +1,6 @@
-📌 My Portfolio.
+📌 # My Portfolio.
 
-# This is my personal portfolio website where I showcase my skills, projects, and career goal as a Python Full-Stack Developer.
+This is my personal portfolio website where I showcase my skills, projects, and career goal as a Python Full-Stack Developer.
 
 🚀 About
 
